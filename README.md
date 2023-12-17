@@ -8,7 +8,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNomanShariq&layout=compact&theme=radical" alt="Top Languages" />
+  [![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NomanShariq)](https://github.com/NomanShariq/github-readme-stats)
 </p>
 
 - 🔭 I’m currently working on Python **Study-portal**
