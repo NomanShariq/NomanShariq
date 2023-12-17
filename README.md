@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NomanShariq&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NomanShariq&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
 - 🔭 I’m currently working on Python **Study-portal**
