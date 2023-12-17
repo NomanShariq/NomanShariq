@@ -24,6 +24,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NomanShariq&show_icons=true&theme=algolia" alt="GitHub Stats" />
   <img src="https://api.githubtrends.io/user/svg/NomanShariq/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic" alt="GitHub Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NomanShariq&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
