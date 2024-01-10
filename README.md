@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Noman Shariq</h1>
 <h3 align="center">A passionate Python Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on Python **Study-portal**
+- 🔭 I’m currently working on Python **Chatbot**
 
 - 🌱 I’m currently learning **Python**
 
