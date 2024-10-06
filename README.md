@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Noman Shariq</h1>
-<h3 align="center">A passionate Python Developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter App Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on Python **ToDo Web App**
+- 🔭 I’m currently working on App **Post Creating and Api testing App**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently Coding in **Flutter**
 
 - 💬 Ask me about **Python , Flutter , Frontend development**
 
