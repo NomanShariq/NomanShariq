@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Noman Shariq</h1>
 <h3 align="center">A passionate Flutter App Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on App **Post Creating and Api testing App**
+- 🔭 I’m currently working on App **Youtube Replica Web-App**
 
-- 🌱 I’m currently Coding in **Flutter**
+- 🌱 I’m currently Coding in **React Native**
 
 - 💬 Ask me about **Python , Flutter , Frontend development**
 
